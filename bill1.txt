@@ -1,0 +1,4 @@
+Order with id 1 for client with id 1 in total of 151.0 on date: 2022-05-19
+Products: 
+Onion Tart with Mustard and Fennel 
+Linguine with Calamari and Garlic 

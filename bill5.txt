@@ -1,0 +1,3 @@
+Order with id 5 for client with id 1 in total of 42.0 on date: 2022-05-15
+Products: 
+Best Friends Forever Brownies 

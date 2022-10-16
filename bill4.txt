@@ -1,0 +1,4 @@
+Order with id 4 for client with id 1 in total of 115.0 on date: 2022-05-18
+Products: 
+Tsatsiki 
+Sweet-and-Sour Brisket 

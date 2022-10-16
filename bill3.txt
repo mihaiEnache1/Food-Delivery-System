@@ -1,0 +1,4 @@
+Order with id 3 for client with id 1 in total of 55.0 on date: 2022-05-18
+Products: 
+Mesclun Salad with Goat Cheese-Stuffed Figs Wrapped in Bacon 
+Polo 

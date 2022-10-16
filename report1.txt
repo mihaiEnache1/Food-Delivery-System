@@ -1,0 +1,8 @@
+Order with id 2 made by client with id 1 on date 2022-05-19 17:27:47
+Products:
+Hot Banana Crème Brûlée  2.5 437 5 27 32 15.0
+Swiss Chard with Horseradish  3.75 85 3 5 520 72.0
+Order with id 1 made by client with id 1 on date 2022-05-19 17:27:37
+Products:
+Hot Banana Crème Brûlée  2.5 437 5 27 32 15.0
+Swiss Chard with Horseradish  3.75 85 3 5 520 72.0
